@@ -1,0 +1,14 @@
+/home/josh/Code/learning/dot net core/net-core-jwt/App/bin/Debug/netcoreapp2.2/App.deps.json
+/home/josh/Code/learning/dot net core/net-core-jwt/App/bin/Debug/netcoreapp2.2/App.runtimeconfig.json
+/home/josh/Code/learning/dot net core/net-core-jwt/App/bin/Debug/netcoreapp2.2/App.runtimeconfig.dev.json
+/home/josh/Code/learning/dot net core/net-core-jwt/App/bin/Debug/netcoreapp2.2/App.dll
+/home/josh/Code/learning/dot net core/net-core-jwt/App/bin/Debug/netcoreapp2.2/App.pdb
+/home/josh/Code/learning/dot net core/net-core-jwt/App/obj/Debug/netcoreapp2.2/App.csprojAssemblyReference.cache
+/home/josh/Code/learning/dot net core/net-core-jwt/App/obj/Debug/netcoreapp2.2/App.csproj.CoreCompileInputs.cache
+/home/josh/Code/learning/dot net core/net-core-jwt/App/obj/Debug/netcoreapp2.2/App.RazorAssemblyInfo.cache
+/home/josh/Code/learning/dot net core/net-core-jwt/App/obj/Debug/netcoreapp2.2/App.RazorAssemblyInfo.cs
+/home/josh/Code/learning/dot net core/net-core-jwt/App/obj/Debug/netcoreapp2.2/App.AssemblyInfoInputs.cache
+/home/josh/Code/learning/dot net core/net-core-jwt/App/obj/Debug/netcoreapp2.2/App.AssemblyInfo.cs
+/home/josh/Code/learning/dot net core/net-core-jwt/App/obj/Debug/netcoreapp2.2/App.RazorTargetAssemblyInfo.cache
+/home/josh/Code/learning/dot net core/net-core-jwt/App/obj/Debug/netcoreapp2.2/App.dll
+/home/josh/Code/learning/dot net core/net-core-jwt/App/obj/Debug/netcoreapp2.2/App.pdb

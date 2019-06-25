@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/josh/Code/learning/dot net core/net-core-jwt/App/App.csproj": {}
+  },
+  "projects": {
+    "/home/josh/Code/learning/dot net core/net-core-jwt/App/App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/josh/Code/learning/dot net core/net-core-jwt/App/App.csproj",
+        "projectName": "App",
+        "projectPath": "/home/josh/Code/learning/dot net core/net-core-jwt/App/App.csproj",
+        "packagesPath": "/home/josh/.nuget/packages/",
+        "outputPath": "/home/josh/Code/learning/dot net core/net-core-jwt/App/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/josh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
